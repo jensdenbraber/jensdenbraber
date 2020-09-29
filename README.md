@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-visual_studio-informational?style=flat&logo=visual-studio&logoColor=white&color=00A1DE)
 ![](https://img.shields.io/badge/Editor-visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00A1DE)
 ![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=00A1DE)
-![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&logoColor=white&color=00A1DE)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00A1DE)
+![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&logoColor=white&color=00A1DE)
 ![](https://img.shields.io/badge/Code-cpp-informational?style=flat&logo=cpp&logoColor=white&color=00A1DE)
 ![](https://img.shields.io/badge/Code-cplusplus-informational?style=flat&logo=cplusplus&logoColor=white&color=00A1DE)
-![](https://img.shields.io/badge/Code-cplusplus-informational?style=flat&logo=c++&logoColor=white&color=00A1DE)
-![](https://img.shields.io/badge/Code-cplusplus-informational?style=flat&logo=cpp&logoColor=white&color=00A1DE)
+![](https://img.shields.io/badge/Code-cplusplus-informational?style=flat&logo=c-plus-plus&logoColor=white&color=00A1DE)
+
+![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=00A1DE)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=00A1DE)
 
 
 <a href="https://github.com/jensdenbraber/jensdenbraber">
