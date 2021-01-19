@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=00A1DE)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=00A1DE)
 
+![](https://komarev.com/ghpvc/?username=jensdenbraber)
 
 <a href="https://github.com/jensdenbraber/jensdenbraber">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensdenbraber&exclude_repo=Localisation,CleaningScheduleGenerator&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
